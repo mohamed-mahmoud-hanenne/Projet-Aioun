@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+
+body{
+    background-color: #ffffff;
+    
+}
+
+header
+{
+    
+    float: right;
+    width: 100%;
+ 
+}
+
+.title{
+   
+    float: right; 
+    font-size: 40px;
+    font-family: "Noto Nastaliq Urdu";
+    
+}
+
+header a{
+    color: #000;
+    font-size: 30px;
+    font-family: "Noto Nastaliq Urdu";
+    text-decoration: none;
+}
+header a:hover{
+    color: #ffff;
+}
+header li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+
+}
+
+header nav{
+    float: left;
+}
+
+
+footer{
+    
+    text-align: center;
+    margin-top: 80%;
+    background-color: #118ab2;
+    font-size: 15px;
+    font-family: "Noto Nastaliq Urdu";
+ 
+}
+.par p{
+    font-size: 20px;
+    text-align: center;
+}
+.terni img{
+    float: right;
+    width: 40%;
+}

@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+
+
+
+
+body
+{
+
+background-image: url(../images/a4.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+  
+}
+
+header
+{
+    
+    float: right;
+    width: 100%;
+ 
+    
+}
+.title{
+   
+    float: right; 
+    font-size: 40px;
+    font-family: "Noto Nastaliq Urdu";
+    
+}
+header a{
+    color: #000;
+    font-size: 30px;
+    font-family: "Noto Nastaliq Urdu";
+    text-decoration: none;
+}
+header a:hover{
+    color:#ffff;
+}
+
+header li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+
+}
+
+header nav{
+    float: left;
+}
+
+.Aioun p{
+    font-size: 30px;
+    float: right;
+   
+}
+footer{
+    
+    text-align: center;
+    margin-top:  35%;
+    background-color: #48cae4;
+    font-size: 15px;
+    font-family: "Noto Nastaliq Urdu";
+    
+   
+}
+
+
+
+
+
+
+
