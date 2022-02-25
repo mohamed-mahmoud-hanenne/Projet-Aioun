@@ -49,15 +49,21 @@ header nav{
     float: left;
 }
 
-.Aioun p{
-    font-size: 30px;
-    float: right;
-   
+.parg{
+    font-size: 20px;
+    text-align: center;
+    margin-top:10%;
+    border:5px solid #264653 ;
+    padding: 80px;
+    width: 500px;
+    height: 150px;
+    margin-left: 25%;
+    border-radius: 10px;
 }
 footer{
     
     text-align: center;
-    margin-top:  35%;
+    margin-top:  10%;
     background-color: #48cae4;
     font-size: 15px;
     font-family: "Noto Nastaliq Urdu";
